@@ -32,7 +32,7 @@ builder.Services.AddSwaggerGen(c =>
 
     c.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "User API",
+        Title = "Tarefa API",
         Version = "v1",
         Description = "API feita para desafio da plataforma DIO.me",
         Contact = new OpenApiContact
