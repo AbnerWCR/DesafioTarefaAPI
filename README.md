@@ -10,4 +10,4 @@ Projeto criado para simular uma aplicação de tarefas/lembretes
 - Flunt.Validations
 - Fluent Validation
 
-<img height="100%" src="https://github.com/AbnerWCR/DesafioTarefaAPI/blob/master/Images/tumb-swagger.png"/>
+<img height="100%" src="https://github.com/AbnerWCR/DesafioTarefaAPI/blob/master/Images/swagger-image.png"/>
