@@ -8,3 +8,4 @@ Projeto criado para simular uma aplicação de tarefas/lembretes
 - Conceitos de DDD
 - Entity Framework
 - Flunt.Validations
+- Fluent Validation
